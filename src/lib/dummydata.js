@@ -94,18 +94,18 @@ export const listData = [
     title: "Beautiful Apartment",
     price: 1200,
     images: [
-      "https://images.pexels.com/photos/1918291/pexels-photo-1918291.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-      "https://images.pexels.com/photos/1428348/pexels-photo-1428348.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-      "https://images.pexels.com/photos/2062426/pexels-photo-2062426.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-      "https://images.pexels.com/photos/2467285/pexels-photo-2467285.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "https://housing-images.n7net.in/012c1500/bdb09df6a8428e2b4844a2588899b267/v0/fs.jpeg",
+      "https://housing-images.n7net.in/01c16c28/3dc4c67cc44588ee135a61dd874758e5/v0/fs/1_bhk_apartment-for-sale-virar_west-Mumbai-others.jpg",
+      "https://housing-images.n7net.in/01c16c28/5a8ae448c2ae2693073f258e581e39f5/v0/fs/1_bhk_apartment-for-sale-virar_west-Mumbai-living_room.jpg",
+      "https://housing-images.n7net.in/01c16c28/70c98d1d330745f8cd659cb3b91b4546/v0/fs/1_bhk_apartment-for-sale-virar_west-Mumbai-kitchen.jpg",
     ],
     bedRooms: 2,
     bathroom: 1,
     size: 861,
     latitude: 51.5074,
     longitude: -0.1278,
-    city: "London",
-    address: "1234 Broadway St",
+    city: "Mumbai",
+    address: "Virar Wesr",
     school: "250m away",
     bus: "100m away",
     restaurant: "50m away",
@@ -115,6 +115,6 @@ export const listData = [
   
   export const userData = {
     id: 1,
-    name: "John Doe",
+    name: "Aditya Mishra",
     img: "https://images.pexels.com/photos/91227/pexels-photo-91227.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
   };
