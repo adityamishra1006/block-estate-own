@@ -3,7 +3,6 @@ import Slider from "../../components/slider/Slider";
 import Map from "../../components/map/Map";
 import { singlePostData, userData } from "../../lib/dummydata";
 
-
 function SinglePage() {
   return (
     <div className="singlePage">
@@ -51,7 +50,7 @@ function SinglePage() {
               <img src="/fee.png" alt="" />
               <div className="featureText">
                 <span>Property Fees</span>
-                <p>Must have 2x the rent in total household income</p>
+                <p>Must have 3x the rent in total household income</p>
               </div>
             </div>
           </div>
@@ -59,7 +58,7 @@ function SinglePage() {
           <div className="sizes">
             <div className="size">
               <img src="/size.png" alt="" />
-              <span>80 sqft</span>
+              <span>100 sqft</span>
             </div>
             <div className="size">
               <img src="/bed.png" alt="" />
